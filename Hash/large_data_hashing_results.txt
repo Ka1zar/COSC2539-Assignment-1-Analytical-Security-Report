@@ -1,0 +1,4 @@
+Hashing Large Data (1 MB)
+==================================================
+MD5 Time (10 runs): 0.011457 seconds
+SHA-256 Time (10 runs): 0.004881 seconds

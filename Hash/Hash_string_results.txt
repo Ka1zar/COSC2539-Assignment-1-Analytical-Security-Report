@@ -1,0 +1,22 @@
+Hashing Speed Test Results
+==================================================
+Input: What's up!
+MD5 Time (1000 runs): 0.000614 seconds
+SHA-256 Time (1000 runs): 0.000581 seconds
+--------------------------------------------------
+Input: This is a test string.
+MD5 Time (1000 runs): 0.000599 seconds
+SHA-256 Time (1000 runs): 0.000564 seconds
+--------------------------------------------------
+Input: 1234567890
+MD5 Time (1000 runs): 0.000600 seconds
+SHA-256 Time (1000 runs): 0.000570 seconds
+--------------------------------------------------
+Input: Ever meet a fellow by the name of Hill?
+MD5 Time (1000 runs): 0.000593 seconds
+SHA-256 Time (1000 runs): 0.000579 seconds
+--------------------------------------------------
+Input: Data collection example for cryptography
+MD5 Time (1000 runs): 0.000597 seconds
+SHA-256 Time (1000 runs): 0.000564 seconds
+--------------------------------------------------

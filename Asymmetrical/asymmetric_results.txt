@@ -1,0 +1,9 @@
+Asymmetric Encryption Performance Test Results
+===========================================
+
+Data Size (bytes) | RSA Time (seconds) | ECC Time (seconds)
+--------------------------------------------------
+Static Message  | 14                | 0.032517          | 0.001000         
+Random Data 2   | 48                | 0.030999          | 0.001006         
+Random Data 3   | 50                | 0.030000          | 0.001000         
+Random Data 4   | 100               | 0.032516          | 0.001000         
